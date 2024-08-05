@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<title>Essbare Insekten von six feet to eat</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="owner" content="six feet to eat Insektenzucht">
+<meta name="author" content="Marco Schebesta">
+<meta name="keywords" content="Insektenzucht, Insekten, Zucht, Züchtung, Speiseinsekten, Futterinsekten, Futtermittelinsekten, Insektenmehl, Insektendünger, Mehl, Dünger. Insekten essen, Heuschrecken essen, essbare insekten, insektensnacks, Insekten zum essen, insektenprotein">
+<meta name="description" content="Essbare Insekten zum essen aus eigener Produktion: Speise-Insekten, Futtermittel-Insekten, Insekten-Mehle, Insekten-Dünger">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" type="text/css" href="css/purecss/base-min.css">
+<link rel="stylesheet" type="text/css" href="css/purecss/grids-min.css">
+<link rel="stylesheet" type="text/css" href="css/purecss/grids-responsive-min.css">
+<link rel="stylesheet" type="text/css" href="css/formate.css">
+<link rel="stylesheet" type="text/css" href="css/formate-infopaketformular.css">
+<link rel="stylesheet" type="text/css" href="css/formate-loginformular.css">
+<link rel="stylesheet" type="text/css" href="css/formate-footer.css">
+<link rel="stylesheet" type="text/css" href="css/formate-hauptanzeigebereich.css">
+<link rel="stylesheet" type="text/css" href="css/scrollicon.css">
+<script src="java/javascripte.js"></script>
+<script src="java/jquery.min.js"></script>
+<link rel="shortcut icon" href="bilder/favicon.ico">
+<style>
+ ul.gruen {list-style-image:url(bilder/punkt01_gruen.gif);}
+ @font-face
+ { font-family: 'Roboto'; 
+   font-style: normal; font-weight: 500;
+   font-display: swap;
+   src: local('Roboto Medium'), local('Roboto-Medium'), url('roboto/Roboto-Regular.ttf') format('truetype')
+ }  
+</style>
+</head>
+<body>
+    
+<?php include('navigation.php'); ?>    
+ 
+<!-- Bilderleiste Start -->
+<div class="bilderleiste" style="height:360px;z-index:2;background-image: url(bilder/hygienebereich.jpg);">
+	<div class="content">
+		<div style="color:white;font-size:1.0em;padding-bottom:6px;padding-top:10px;padding-right:16px;padding-left:16px;font-family:'Roboto';">
+			Essbare Insekten und Nahrungsmittel mit Insektenprotein aus zertifizierter Manufaktur.
+		</div>
+		<div style="color:white;font-size:0.7em;padding-bottom:10px;padding-top:0px;padding-right:16px;padding-left:16px;font-family:'Roboto';">
+			
+		</div>
+	</div>
+</div>
+<!-- Bilderleiste Ende -->
+
+
+<!-- Hauptanzeige -->
+<br><br>
+
+<div class="pure-g ekg-content">
+	
+	
+	
+</div>
+
+<br>
+
+<div class="pure-g ekg-content">
+	
+	<div class="pure-u-1 pure-u-sm-1 pure-u-md-1 pure-u-lg-1">
+		<br><div style="margin-left:auto;margin-right:auto;width:70%;font-size:3.0em;font-weight:900;font-family:'Roboto';color:#990000;">Startseite
+		</div>
+	</div>
+
+	<div class="pure-u-1 pure-u-sm-1 pure-u-md-1 pure-u-lg-1" style="margin-left:auto;margin-right:auto;width:70%;font-size:1.8em;font-style:normal;font-weight:400;font-family:'Roboto';">
+	<br>
+
+        Unter der Marke six feet to eat bieten wir essbare Insekten sowie Insektenmehle und proteinreiche Insektensnacks für den menschlichen Verzehr an.
+<br>
+        Wir sind ein Team aus Insektenzüchtern, Biologen und Ingenieuren das es sich zum Ziel gesetzt hat Insekten als nachhaltiges Nahrungsmittel zu etablieren.
+        Die Zusammenarbeit mit anderen europäischen Züchtern sowie Forschungseinrichtungen und Universitäten hat es uns ermöglicht Produkte höchster Qualität zu entwickeln und auf dem Markt zu platzieren.
+<br>
+        
+        <a href="getrocknete-Speiseinsekten.php">Hier geht's zu den Produkten</a>
+
+<br><br>
+        <div style="width:75%;height:auto;display:block;margin-left:auto;margin-right:auto;background-color:#EDECE8;font-family:'Roboto';font-size:0.7em;">
+	   <img class="bild100" src="bilder/Insektenburger von Catch-Your-Bug.jpg" alt="Gericht mit Insektenburger" title="Gericht mit Insektenburger">
+	   <div style="padding-left:12px;padding-right:12px;padding-bottom:8px;padding-bottom:8px;">
+		Insektenburger als Teil einer gesunden und ausgewogenen Ernährung.
+		<div style="font-size:0.7em;">Quelle: Eigene Aufnahme.
+		</div>
+	</div>
+	</div>
+        <br>	
+        <strong>Wo können die essbaren Insekten gekauft werden?</strong>
+        <br><br>
+        Die Insekten-Produkte sind im eigenen <a class="standard" target=_blank href="https://www.catch-your-bug.com">Onlineshop</a> sowie in immer mehr stationären Geschäften wie Edekas und Rewe Filialen sowie Feinkostenläden erhältlich.
+<br><br>
+         <div style="width:75%;height:auto;display:block;margin-left:auto;margin-right:auto;background-color:#EDECE8;font-family:'Roboto';font-size:0.7em;">
+	   <img class="bild100" src="bilder/Essbare Insekten im Supermarkt.jpg" alt="Essbare Insekten im Supermarkt" title="Essbare Insekten im Supermarkt">
+	   <div style="padding-left:12px;padding-right:12px;padding-bottom:8px;padding-bottom:8px;">
+		Essbare Insekten im Supermarkt.
+		<div style="font-size:0.7em;">Quelle: Eigene Aufnahme.
+		</div>
+	   </div>
+	   </div>
+<br>
+        <strong>Insekten als Nahrungsmittel der Zukunft</strong>
+        <br><br>
+        Insekten sind eine umweltfreundliche Proteinquelle mit hohem Nährstoffgehalt. Sie benötigen wenig Platz, Wasser und Futter und verursachen kaum CO2-Emissionen. Essbare Insekten bieten vielseitige Einsatzmöglichkeiten in der modernen Küche. Bereits jetzt finden sich Produkte wie Insektenchips und -mehl in unseren Supermärkten. Insektenprotein kann einen bedeutenden Beitrag zum Umweltschutz leisten und stellt eine vielversprechende Nahrungsquelle der Zukunft dar.
+<br><br>
+        <a href="oekologie-klima-insekten.php">Hier erfahrt ihr mehr zum Thema</a>
+        <br><br>
+        <strong>Zubereitung der essbaren Insekten</strong>
+        <br><br>
+        Auf unserer <a class="standard" target=_blank href="https://www.catch-your-bug.com/blogs/rezepte">Rezeptseite </a> findest Du zahlreiche Tipps und Anregungen, was Du mit Nahrungsmitteln aus Insekten alles zaubern kannst. Erfahre, wie Du Insekten zuhause selbst lecker zubereiten kannst, oder schaue Dir Kochvideos mit Profikoch Oliver Schendzielorz an. Bereits jetzt findest Du zahlreiche Rezepte zu ausgefallenen Gaumenfreuden und Anleitungen dazu, wie Du sie in Deiner Küche zubereitest.  <br><br>
+        Im eigenen Shop von catch-your-bug.com findest Du aber auch verzehrfertige Snacks wie:
+<br><br>
+        •	gewürzte Protein-Snacks aus Grillen, Mehlwürmern, Buffalowürmern oder Heuschrecken. <br>
+        •	Verarbeitete Produkte wie Insektenchips mit Knoblauch, Classic, Chili oder Wasabi-Geschmack<br>
+        •	Insektenlutscher als Heuschrecken-, Heimchen- oder Mehlwurm-Lolli. Zur Erklärung: Heimchen ist ein anderes Wort für Grillen. Diese Lutscher sind echte Hingucker, weil man die Insekten gut erkennen kann, sie schmecken wunderbar fruchtig<br>
+        •	gefrorene Speiseinsekten<br>
+        •	verzehrfertige Speiseinsekten<br>
+        •	und das Insektenmehl. <br><br>
+         <strong>Kochworkshops und Schulungen mit Insekten</strong>
+        <br><br>
+        Neben Nahrungsmitteln mit Insektenprotein und ganzen Insekten gehören Zucht-Workshops, Verkostungen auf Firmenfeiern und Vorträge sowie Keynotes zum Angebot.
+
+         <div style="width:75%;height:auto;display:block;margin-left:auto;margin-right:auto;background-color:#EDECE8;font-family:'Roboto';font-size:0.7em;">
+	   <img class="bild100" src="bilder/Insekten_Kochworkshop_Catch-your-bug.jpg" alt="Verschiedene Gerichte die im Zuge eines Workshops in einer Kantine angeboten wurden" title="Verschiedene Gerichte die im Zuge eines Workshops in einer Kantine angeboten wurden">
+	   <div style="padding-left:12px;padding-right:12px;padding-bottom:8px;padding-bottom:8px;">
+		Verschiedene Gerichte die im Zuge eines Workshops in einer Kantine angeboten wurden.
+		<div style="font-size:0.7em;">Quelle: Eigene Aufnahme.
+		</div>
+	   </div>
+	   </div>
+        Bei Fragen rufen Sie uns gerne unter <a class="standard" href="tel:004915787870560">+49(0)157-87870560</a> an oder senden uns eine E-Mail an <a class="standard" href="info@catch-your-bug.com">info@catch-your-bug.com</a>. Vielen Dank.
+
+			
+		
+		<br><br><br><br>
+		
+	</div>
+
+	
+</div>
+
+<!-- /Hauptanzeige Ende -->
+
+<br><br>
+
+<?php include('Navigation unten.php'); ?>   
+
+
+</body>
+</html> 
